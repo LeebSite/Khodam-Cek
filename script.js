@@ -112,7 +112,7 @@ function generateKhodamName() {
 
       Swal.fire({
         title: "Mohon Tunggu...",
-        html: "Meminta bantuan dari alam gaib untuk mencari informasi tentang khodam Anda...",
+        html: "Meminta bantuan dari alam gaib untuk mencari informasi tentang khodam Anda...Tunggu bentar ya wak",
         allowOutsideClick: false,
         showConfirmButton: false,
         didOpen: () => {
